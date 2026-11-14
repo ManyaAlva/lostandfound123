@@ -1,0 +1,9 @@
+com\campus\lostfound\web\InsightController.class
+com\campus\lostfound\service\MatchingService.class
+com\campus\lostfound\service\Match.class
+com\campus\lostfound\model\Item.class
+com\campus\lostfound\config\AppConfig.class
+com\campus\lostfound\LostFoundApplication.class
+com\campus\lostfound\service\KeywordMatchingService.class
+com\campus\lostfound\config\StopWords.class
+com\campus\lostfound\repo\ItemRepository.class
